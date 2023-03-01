@@ -1,0 +1,125 @@
+
+body{
+	margin:0;
+	background-color:silver;
+
+	
+}
+
+.main{
+
+background-color:grey;
+height: 100px;
+width: 100%;
+position: fixed;
+top: 0;
+margin-top:0;
+padding: 0;
+
+
+}
+
+ul{
+padding: 0px;
+margin-top:10px;
+float: left;
+display: inline;
+
+
+}
+
+
+li{
+
+	
+	display: inline;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	display: inline;
+	text-align: center;
+	margin-left:40px;
+	margin-top: 30px;
+	font-size:18px;
+	float:left;
+	margin-right: 60px;
+	font-size: 20px;
+	
+
+
+	
+	
+
+}
+.anchor:hover{
+color: white;
+background-color: black;
+}
+
+.login{
+margin-top: 5px;
+float: right;
+margin-left:150px;
+font-size: 20px;
+position: relative;
+
+}
+
+.name{
+	text-align: center;
+	border-radius: 10px;
+	height: 30px;
+	margin-left: 10px;
+	border-style: double;
+	font-size: 16px;
+	
+}
+
+.name:hover{
+	
+	background-color: black;
+	color: white;
+}
+
+.password{
+	text-align: center;
+	border-radius: 10px;
+	height: 30px;
+	margin: 20px;
+	padding-left: 0px;
+	font-size: 16px;
+}
+
+
+.password:hover{
+	background-color: black;
+	color: white;
+	
+}
+
+
+
+
+.btn{
+	border-radius: 2.5px;
+	height: 20px;
+	width:55px;
+	color: 
+}
+.btn:hover{
+	
+	background-color: black;
+	color: white;
+}
+
+footer{
+	
+	text-align: center;
+	color: black;
+	position: fixed;
+	margin-left: 45%;
+	margin-top: 10%;
+}
+
